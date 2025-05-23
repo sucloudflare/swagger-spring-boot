@@ -76,6 +76,3 @@ export PATH=$JAVA_HOME/bin:$PATH
   <strong>Solução:</strong> configurar <code>JAVA_HOME</code> e <code>PATH</code> para apontar para o JDK 21 corretamente.</p>
 
   <hr />
-
-  <h2>Contato</h2>
-  <p>Para dúvidas, entre em contato: <a href="mailto:edson@example.com">edson@example.com</a></p>
